@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="GithubAutomation.AppTest" duration-ms="10811" started-at="2016-07-04T11:17:36Z" finished-at="2016-07-04T11:17:47Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="10811" started-at="2016-07-04T11:17:36Z" finished-at="2016-07-04T11:17:47Z">
+      <class name="GithubAutomation.AppTest">
+        <test-method status="PASS" signature="beforTest()[pri:0, instance:GithubAutomation.AppTest@1a407d53]" name="beforTest" is-config="true" duration-ms="10809" started-at="2016-07-04T16:47:36Z" finished-at="2016-07-04T16:47:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforTest -->
+      </class> <!-- GithubAutomation.AppTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- GithubAutomation.AppTest -->
+</testng-results>

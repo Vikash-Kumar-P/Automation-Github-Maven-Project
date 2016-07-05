@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="GithubAutomation.AppTest">
+        <methods>
+          <include name="testFour"/>
+          <include name="testSix"/>
+          <include name="testEight"/>
+          <include name="beforTest"/>
+          <include name="testFive"/>
+          <include name="testTen"/>
+          <include name="testTwo"/>
+          <include name="testNine"/>
+          <include name="testThree"/>
+          <include name="testSeven"/>
+          <include name="testOne"/>
+        </methods>
+      </class> <!-- GithubAutomation.AppTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
